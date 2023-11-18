@@ -1,2 +1,5 @@
-"# Mercedes-Benz-Greener-Manufacturing-Project" 
-"# Mercedes-Benz-Greener-Manufacturing-Project" 
+Group Members:
+Ajay Kundu
+Laxmi Sharma
+Jashanpreet Kaur
+Nikita Wadhwa
